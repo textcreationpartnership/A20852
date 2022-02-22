@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Maiestie of King Iames A gratulatorie poem by Michaell Drayton.</title>
+            <author>Drayton, Michael, 1563-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20852</idno>
+            <idno type="STC">STC 7231</idno>
+            <idno type="STC">ESTC S109929</idno>
+            <idno type="EEBO-CITATION">99845560</idno>
+            <idno type="PROQUEST">99845560</idno>
+            <idno type="VID">10467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1377:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Maiestie of King Iames A gratulatorie poem by Michaell Drayton.</title>
+                  <author>Drayton, Michael, 1563-1631.</author>
+               </titleStmt>
+               <extent>[14] p., plate   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iames Roberts, for T. M[an] and H. L[ownes],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publishers' names from STC.</note>
+                  <note>Signatures: A-B⁴ (-A1).</note>
+                  <note>The last leaf is blank.</note>
+                  <note>In this first state "To the reader" on B3r begins "For the truth .."; the first roundel of the genealogical table has "Soueraygne".</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10467:1"/>
+            <pb facs="tcp:10467:1"/>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>TO THE MA<g ref="char:EOLhyphen"/>IESTIE OF KING <hi>JAMES.</hi>
+            </p>
+            <p>A gratulatorie Poem by <hi>Michaell Drayton.</hi>
+            </p>
+            <p>
+               <hi>AT LONDON</hi> Printed by <hi>Iames Roberts,</hi> for <hi>T. M.</hi> and <hi>H. L.</hi> 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:10467:2"/>
+            <pb facs="tcp:10467:2" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>TO THE MAIESTIE <hi>of King</hi> IAMES.</head>
+            <lg>
+               <l>THE hopefull raigne of a moſt happy King,</l>
+               <l>Loe thus excites our early Muſe to ſing,</l>
+               <l>Of her own ſtrength which boldly thus preſumes,</l>
+               <l>That's yet vnimpt with any borowed plumes,</l>
+               <l>A Counſailes wiſdome, and their graue fore-ſight,</l>
+               <l>Lends me this luſter, and reſplendent light:</l>
+               <l>Whoſe well-prepared pollicie, and care,</l>
+               <l>For theyr indoubted Soueraigne ſo prepare,</l>
+               <l>Other vaine titles ſtrongly to withſtand,</l>
+               <l>Plac'd in the boſome of a peacefull Land:</l>
+               <l>That blacke deſtruction which now many a day,</l>
+               <l>Had fix'd her ſterne eye for a violent pray,</l>
+               <l>Fruſtrate by their great prouidence and power,</l>
+               <l>Her very nerues is ready to deuoure,</l>
+               <l>And euen for griefe downe ſincking in a ſwound</l>
+               <l>Beats her ſnak'd head againſt the verdant ground.</l>
+               <l>
+                  <pb facs="tcp:10467:3"/>
+But whilſt the ayre thus thunders with the noiſe,</l>
+               <l>Perhaps vnheard, why ſhould I ſtraine my voyce?</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> ſtirs, &amp; tumults haue been hot'ſt &amp; proudeſt,</l>
+               <l>The noble Muſe hath ſong the ſtern'ſt &amp; lowdeſt;</l>
+               <l>And know great Prince, that Muſe thy glory ſings,</l>
+               <l>(What ere detraction ſnarle) was made for Kings.</l>
+               <l>The neighing courſer in this time of mirth,</l>
+               <l>That with his arm'd hoofe beats th'reecchoing earth,</l>
+               <l>The trumpets clangor, &amp; the peoples cry,</l>
+               <l>Not like the Muſe can ſtrike the burniſh'd skie,</l>
+               <l>vvhich ſhould heaue<g ref="char:cmbAbbrStroke">̄</g> quench th'eternal quicking ſprings</l>
+               <l>The ſtars put out, could light the<g ref="char:cmbAbbrStroke">̄</g> with her wings.</l>
+               <l>What though perhaps my ſelfe I not intrude</l>
+               <l>Amongſt th'vnſtedy wondring multitude,</l>
+               <l>The tedious tumults, and the boyſtrous throng,</l>
+               <l>That preſſe to view thee as thou com'ſt along,</l>
+               <l>The praiſe I giue thee ſhall thy welcome keepe,</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> all theſe rude crowds in the duſt ſhal ſleepe,</l>
+               <l>And when applauſe and ſhouts are huſh'd &amp; ſtill,</l>
+               <l>The<g ref="char:cmbAbbrStroke">̄</g> ſhal my ſmooth verſe chant thee cleer &amp; ſhril.</l>
+               <l>
+                  <pb facs="tcp:10467:3" rendition="simple:additions"/>
+With thy beginning, doth the Spring begin,</l>
+               <l>And as thy Vſher gently brings thee in,</l>
+               <l>Which in conſent doth happily accord</l>
+               <l>With the yeere kept to the incarnate Word,</l>
+               <l>And in that Month (cohering by a fate)</l>
+               <l>By the old world to wiſdome dedicate,</l>
+               <l>Thy Prophet thus doth ſeriouſly apply,</l>
+               <l>As by a ſtrong vnfailing Augury,</l>
+               <l>That as the fruitfull, and ful-boſom'd Spring,</l>
+               <l>So ſhall thy raigne be rich and floriſhing:</l>
+               <l>The month thy conqueſts, &amp; atchieuements great</l>
+               <l>By thoſe ſhall ſit on thy Imperiall ſeate,</l>
+               <l>And by the yeere I ſeriouſly diuine.</l>
+               <l>The Crowne for euen ſetled in thy line.</l>
+               <l>From <hi>Cornwall</hi> now paſt <hi>Calidons</hi> proude ſtrength,</l>
+               <l>Thy Empire beares eight hudred miles in length:</l>
+               <l>Halfe which in bredth her boſome forth doth lay</l>
+               <l>
+                  <note place="margin">The Iriſh Sea.</note>From the faire <hi>German</hi> to 'th <hi>Verginian</hi> ſea:</l>
+               <l>Thy Realme of <hi>Ireland,</hi> a moſt fertile Land,</l>
+               <l>Brought in ſubiection to thy glorious hand,</l>
+               <l>
+                  <pb facs="tcp:10467:4"/>
+And all the Iles theyr chalkie tops aduance</l>
+               <l>To the ſunne ſeiting from the coaſt of Fraunce.</l>
+               <l>
+                  <hi>Saturne</hi> to thee his ſoueraignty reſignes,</l>
+               <l>Op'ning the lock'd way to the wealthy mines,</l>
+               <l>And till thy raigne Fame all this while did houer,</l>
+               <l>The North-weſt paſſage that thou might'ſt diſe of</l>
+               <l>Vnto the Indies, where that treaſure lies</l>
+               <l>Whoſe plenty might ten other worlds ſuffice.</l>
+               <l>
+                  <hi>Neptune</hi> and <hi>Ioue</hi> together doe conſpire,</l>
+               <l>This giues his trydent, that his three forkt fire,</l>
+               <l>And to thy hand doe giue the keyes to keepe,</l>
+               <l>Of the profound immeaſurable deepe.</l>
+            </lg>
+            <lg>
+               <l>But ſoft my Muſe, check thy abundant ſtraine</l>
+               <l>To the conceiuing of th'vnskilfull braine,</l>
+               <l>That whilſt thy true deſcent I doe rehearſe,</l>
+               <l>Th'vnlearned'ſt ſoule may ſweetly taſt my verſe<g ref="char:punc">▪</g>
+               </l>
+               <l>Which now in order let me firſt diſpoſe,</l>
+               <l>And tell the vnion of the bleſſed Roſe<g ref="char:punc">▪</g>
+               </l>
+               <l>That to thy Grandſire <hi>Henry</hi> I may bring thee,</l>
+               <l>(From whom I after to thy birth may ſing thee)</l>
+               <l>
+                  <pb facs="tcp:10467:4" rendition="simple:additions"/>
+                  <note place="margin">Katherine wife to Hen<g ref="char:EOLhyphen"/>ry the fiſt.</note>That <hi>Tudors</hi> blood did worthily prefer,</l>
+               <l>From the great Queene that beautious Dowager,</l>
+               <l>
+                  <note place="margin">Edmond Tudor Earle of Rich<g ref="char:EOLhyphen"/>mond, ſonne of Owen Tudor by the Queene. The daugh<g ref="char:EOLhyphen"/>ter of Iohn Duke of Sommer<g ref="char:EOLhyphen"/>ſet, ſonne of Iohn Earle of Sommer<g ref="char:EOLhyphen"/>ſet, the ſonne of Iohn of Gaunt.</note>Whoſe ſonne braue <hi>Richmond</hi> fro<g ref="char:cmbAbbrStroke">̄</g> the Brittons fet,</l>
+               <l>Graft in the ſtock of Princely <hi>Sommerſet,</hi>
+               </l>
+               <l>The third faire Sien, the ſweet Roſeat plant,</l>
+               <l>Sprong from the Roote of the Lancaſtrian <hi>Gant,</hi>
+               </l>
+               <l>Which had ſeauenth <hi>Henry,</hi> that of royall blood</l>
+               <l>By his deere Mother, is the Red-roſe bud,</l>
+               <l>As theyr great <hi>Merlin</hi> propheci'd before</l>
+               <l>Should the old Brittons regalty reſtore,</l>
+               <l>Which <hi>Henry</hi> raigning by th'vſurpers death,</l>
+               <l>Maried the Princeſſe faire <hi>Elizabeth</hi>
+               </l>
+               <l>Fourth <hi>Edwards</hi> daughter, whoſe predeſt'nate bed</l>
+               <l>Did thus conioyne the White-roſe, and the Red:</l>
+               <l>Theſe Roſeall branches as I thus entwyne,</l>
+               <l>In curious trayles embeliſhing thy lyne,</l>
+               <l>To thy bleſt Cradell let me bring thee on,</l>
+               <l>Rightly deriu'd from thy great Grandſires throne.</l>
+               <l>Who holding Scotlands amity in worth,</l>
+               <l>Strongly to linck him with King <hi>Iames</hi> the fourth,</l>
+               <l>
+                  <pb facs="tcp:10467:5"/>
+His eldeſt daughter did to him vnite,</l>
+               <l>Th'vnparaleld bright louely <hi>Margarite,</hi>
+               </l>
+               <l>Which to that husband proſperouſly did bring,</l>
+               <l>The fifth of that Name, <hi>Scotlands</hi> lawfull King,</l>
+               <l>Father to <hi>Mary</hi> (long in <hi>England</hi> ſeene)</l>
+               <l>The <hi>Daulphins</hi> dowager,<note place="margin">Maried whilſt he was Daul<g ref="char:EOLhyphen"/>phin.</note> the late <hi>Scottish</hi> Queene.</l>
+            </lg>
+            <lg>
+               <l>But now to <hi>Margarite</hi> backe againe to come,</l>
+               <l>From whoſe ſo fruitfull, and moſt bleſſed wombe</l>
+               <l>We bring our fullioy, <hi>Iames</hi> her husband dead,</l>
+               <l>
+                  <note place="margin">Archibald Dowglaſſo, Earle of An<g ref="char:EOLhyphen"/>guiſh.</note>Tooke gallant <hi>Anguish</hi> to a ſecond bed,</l>
+               <l>To whom ere long ſhe bare a princely gerle,</l>
+               <l>Maried to <hi>Lenox,</hi> that braue-iſſued Earle,</l>
+               <l>This beautious <hi>Dowglaſſe,</hi>
+                  <note place="margin">The Coun<g ref="char:EOLhyphen"/>teſle of Le<g ref="char:EOLhyphen"/>nox.</note> as the powers imply,</l>
+               <l>Brought that Prince <hi>Henry,</hi> Duke of <hi>Albany,</hi>
+               </l>
+               <l>who in the prime of ſtre<g ref="char:cmbAbbrStroke">̄</g>gth,<note place="margin">Henry Lord Daily.</note> in youths ſum'd pride</l>
+               <l>Maried the Scotch Queene on the other ſide,</l>
+               <l>Whoſe happy bed to that ſweet Lord did bring,</l>
+               <l>This Brittaine hope, <hi>Iames</hi> our vndoubted King,</l>
+               <l>In true ſucceſsion, as the firſt of other</l>
+               <l>Of <hi>Henries</hi> line by Father, and by Mother.</l>
+               <l>
+                  <pb facs="tcp:10467:5" rendition="simple:additions"/>
+Thus fro<g ref="char:cmbAbbrStroke">̄</g> the old ſtock ſhowing thee ſprong to be,</l>
+               <l>Grafting the pure <hi>VVhite,</hi> with the <hi>Red-roſe</hi> tree,</l>
+               <l>By mixture made vermillion as they meet,</l>
+               <l>For in that colour is the Roſe moſt ſweet:</l>
+               <l>So in thy Crowne the precious flower that growes</l>
+               <l>Be it the Damaske, or Vermillion Roſe,</l>
+               <l>Amongſt thoſe Reliques, that victorious King,</l>
+               <l>
+                  <hi>Edward</hi> cald <hi>Longshanks,</hi> did from Scotland bring,</l>
+               <l>And as a Trophie royally prefer</l>
+               <l>To the rich Shrine in famous Weſtminſter,</l>
+               <l>That ſtone reſeru'd in England many a day,</l>
+               <l>
+                  <note place="margin">Recorded to be that ſtone whereon Ia<g ref="char:EOLhyphen"/>cob ſlept.</note>On which great <hi>Iacob</hi> his graue head did lay,</l>
+               <l>And ſaw deſcending Angels whilſt he ſlept:</l>
+               <l>Which ſince that time by ſundry Nations kept,</l>
+               <l>(From age to age I could recite you how,</l>
+               <l>Could I my pen that liberty alow.)</l>
+               <l>An ancient Prophet long agoe fore-told,</l>
+               <l>(Though fooles their ſawes for vanities doe hold)</l>
+               <l>A King of Scotland,<note place="margin">A prophecie belonging to that ſtone.</note> ages comming on,</l>
+               <l>Where it was found, be crown'd vpon that ſtone.</l>
+               <l>
+                  <pb facs="tcp:10467:6"/>
+Two famous Kingdoms ſeperate thus long,</l>
+               <l>Within one Iland, and that ſpeake one tongue,</l>
+               <l>Since <hi>Brute</hi> firſt raign'd, (if men of <hi>Brute</hi> alow)</l>
+               <l>Neuer before vnited vntill now,</l>
+               <l>what power, nor war could do, nor time expected,</l>
+               <l>Thy bleſſed birth hath happily effected.</l>
+               <l>O now reuiue that noble Brittaines name,</l>
+               <l>From which at firſt our ancient honors came,</l>
+               <l>Which with both Nations fitly doth agree</l>
+               <l>That Scotch and Engliſh without difference be,</l>
+               <l>And in that place wher feuds were wont to ſpring</l>
+               <l>Let vs light Iigs, and ioyfull Paeans ſing.</l>
+               <l>Whilſt ſuch as rightly propheci'd thy raigne,</l>
+               <l>Deride thoſe Ideots held their words for vaine.</l>
+               <l>Had not my ſoule beene proofe gainſt enuies ſpite</l>
+               <l>I had not breath'd thy memory to write:</l>
+               <l>Nor had my zealous, and religious layes</l>
+               <l>Told thy rare vertues, and thy glorious dayes.</l>
+               <l>Renowned Prince, when all theſe tumults ceaſe,</l>
+               <l>Euen in the calme, and Muſick of thy peace,</l>
+               <l>
+                  <pb facs="tcp:10467:6" rendition="simple:additions"/>
+If in thy grace thou deigne to fauour vs,</l>
+               <l>And to the Muſes be propitious,</l>
+               <l>
+                  <hi>Caeſar</hi> himſelfe, Roomes glorious wits among,</l>
+               <l>Was not ſo highly, nor diuinely ſung.</l>
+               <l>The very earth l'eſt &amp; degenerat'ſt ſpirit,</l>
+               <l>That is moſt voyd of vertue, and of merit,</l>
+               <l>With the auſteer'ſt, and impudenteſt face,</l>
+               <l>Will thruſt himſelfe the formoſt to thy grace;</l>
+               <l>Thoſe ſilken, laced, and perfumed hinds,</l>
+               <l>That haue rich bodies, but poore wretched minds,</l>
+               <l>But from thy Court (O Worthy) baniſh quite</l>
+               <l>The foole, the Pandar, and the Paraſite,</l>
+               <l>And call thy ſelfe moſt happy (then be bold)</l>
+               <l>When worthie places, worthi'ſt men doe hold,</l>
+               <l>The ſeruile clowne for ſhame ſhall hide his head,</l>
+               <l>His ignorance, and baſeneſſe fruſtrated,</l>
+               <l>Set louely vertue euer in thy view,</l>
+               <l>And loue them moſt, that moſt doe her purſue,</l>
+               <l>So ſhalt thou ad renowne vnto thy ſtate,</l>
+               <l>A King moſt great, moſt wiſe, moſt fortunate.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:10467:7"/>
+            <head>To the Reader.</head>
+            <p>FOr the truth of theſe branches of the deſcent, in the table or Page heere vnto anexed, the perfect and ſun<g ref="char:EOLhyphen"/>dry Genealogies extant, doe ſufficiently warrant in this behalfe: If by reaſon it is but a part, and that alſo pat<g ref="char:EOLhyphen"/>tern'd out of the large Genealogie as a lim of the ſame, and runnes onely and directly with the Emperiall lyne, being but ſo much (as wee may fitly ſay) is aly'd to the Poem: It ſeeme not to beare ſuch vniformity and pro<g ref="char:EOLhyphen"/>portion, as workmanſhip would prayſe, that let iudge<g ref="char:EOLhyphen"/>ment beare with and the Artificer reforme, being pla<g ref="char:EOLhyphen"/>ced heere rather for explanation, then any meere or ex<g ref="char:EOLhyphen"/>treame neceſsitie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
